@@ -1,4 +1,4 @@
-# ResumeParser : Advanced Resume Parsing Challenge (by Revelio Labs)
+ # ResumeParser : Advanced Resume Parsing Challenge (by Revelio Labs)
 
 ## Problem Statements
 
